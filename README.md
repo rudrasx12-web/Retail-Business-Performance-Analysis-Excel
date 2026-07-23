@@ -5,6 +5,10 @@ This project was completed as part of the **Excel Skills for Business: Essential
 
 The goal of this project is to analyze retail sales data and create a clear, easy-to-understand Excel dashboard that supports business decision-making.
 
+## Dashboard Overview 
+
+![Dashboard](dashboard.png) 
+
 ## Project Objectives
 - Clean and organize raw sales data
 - Analyze sales and profit performance
@@ -19,7 +23,6 @@ The goal of this project is to analyze retail sales data and create a clear, eas
 - Basic Formulas
 - Charts
 - Business Analysis
-
 
 ## Key Insights
 - Technology generated the highest sales and profit.
